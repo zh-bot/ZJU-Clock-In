@@ -108,6 +108,8 @@ class DaKa(object):
         new_info['jcqzrq'] = ""
         new_info['gwszdd'] = ""
         new_info['szgjcs'] = ""
+        new_info['23676ad88cb0953fa0e229b32e886f62'] = '1628132969'
+        new_info['f6f259ba6791b79b64e0559fbe41050d'] = '9a3e997026e31e3174cc3c5521f08dd3'
         self.info = new_info
         return new_info
 
